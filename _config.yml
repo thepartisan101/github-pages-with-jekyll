@@ -1,10 +1,13 @@
-title: Your awesome title
-author: GitHub User
+title: CONNECTED NODES
+author: Ruben Seoane
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a test blog intended for me to get familiar with markdown and GitHub Pages.
+  Spelling mistakes might happen, so wait for pull requests. Conclusions reached at a certain 
+  point don't make me liable in the future, as being human, I can learn and change my opinion.
+  In fact, a life well lived is a succession of assumptions written down in your own brain repository, 
+  to be later "pull requested" corrected and new assumptions being merged to the main branch.
+  A program that never gets pull requested will never grow, becoming obsolete.
 
 # social links
 twitter_username: your-twitter-handle
